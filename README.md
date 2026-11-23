@@ -6,6 +6,7 @@
   <a href="https://scholar.google.com/citations?user=cvPjW2oAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
   <a href="https://openreview.net/profile?id=~Dat_T._Truong1"><img src="https://img.shields.io/badge/OpenReview-6D5ACF?style=for-the-badge" alt="OpenReview" /></a>
   <a href="https://orcid.org/0009-0009-7460-9226"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID 0009-0009-7460-9226" /></a>
+  <a href="mailto:2512703528@student.hcmus.edu.vn"><img src="https://img.shields.io/badge/Academic_Email-6366F1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: 2512703528@student.hcmus.edu.vn" /></a>
 </p>
 
 <p align="center">
