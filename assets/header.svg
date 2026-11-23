@@ -1,21 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
-  <title id="title">Truong Thanh Dat</title>
-  <desc id="desc">AI research and software projects. University of Science, VNU-HCM.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#182c45"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#93c5fd"/></linearGradient>
-  </defs>
-  <rect width="1100" height="260" rx="20" fill="url(#bg)"/>
-  <g fill="none" stroke="#42637f" stroke-opacity=".38">
-    <circle cx="1010" cy="130" r="145"/><circle cx="1010" cy="130" r="104"/><circle cx="1010" cy="130" r="63"/>
-    <path d="M810 130h290M1010 0v260"/>
-  </g>
-  <circle cx="906" cy="130" r="5" fill="#5eead4"/>
-  <circle cx="1010" cy="67" r="5" fill="#93c5fd"/>
-  <rect x="52" y="48" width="42" height="4" rx="2" fill="url(#accent)"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="52" y="109" font-size="43" font-weight="700" fill="#f1f5f9">Truong Thanh Dat</text>
-    <text x="54" y="153" font-size="21" fill="#b9d0e4">AI research &amp; software projects</text>
-    <text x="54" y="205" font-size="14" letter-spacing="2" fill="#78dbd2">UNIVERSITY OF SCIENCE · VNU-HCM</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-labelledby="title desc">
+<title id="title">Truong Thanh Dat — AI Research</title>
+<desc id="desc">Language, speech and vision. Undergraduate researcher at University of Science, VNU-HCM.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1024"/><stop offset=".6" stop-color="#161636"/><stop offset="1" stop-color="#182447"/></linearGradient>
+<linearGradient id="ink"><stop stop-color="#a5b4fc"/><stop offset=".5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7c3aed" stop-opacity=".22"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a5b4fc" stroke-opacity=".04"/></pattern>
+<clipPath id="frame"><rect width="1100" height="310" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1100" height="310" fill="url(#bg)"/><rect width="1100" height="310" fill="url(#grid)"/>
+<ellipse cx="920" cy="140" rx="290" ry="230" fill="url(#halo)"><animate attributeName="opacity" values=".5;1;.5" dur="9s" repeatCount="indefinite"/></ellipse>
+<g fill="none" stroke-width="1">
+<ellipse cx="930" cy="153" rx="148" ry="108" stroke="#818cf8" stroke-opacity=".25" transform="rotate(-25 930 153)"/>
+<ellipse cx="930" cy="153" rx="148" ry="70" stroke="#a78bfa" stroke-opacity=".28" transform="rotate(30 930 153)"/>
+<ellipse cx="930" cy="153" rx="70" ry="120" stroke="#67e8f9" stroke-opacity=".18" transform="rotate(35 930 153)"/>
+<path d="M812 100 920 69 1039 146 973 241 835 218 812 100 973 241M920 69 835 218 1039 146" stroke="#a5b4fc" stroke-opacity=".18"/>
+</g>
+<g fill="#a5b4fc"><circle cx="812" cy="100" r="4"/><circle cx="920" cy="69" r="4"/><circle cx="1039" cy="146" r="4"/><circle cx="973" cy="241" r="4"/><circle cx="835" cy="218" r="4"/></g>
+<circle cx="930" cy="153" r="7" fill="#c4b5fd"><animate attributeName="opacity" values=".45;1;.45" dur="5s" repeatCount="indefinite"/></circle>
+<g transform="translate(930 153)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/><circle cx="148" cy="0" r="4" fill="#67e8f9"/></g></g>
+<path d="M0 292Q275 265 550 291T1100 284" fill="none" stroke="url(#ink)" stroke-opacity=".25"><animate attributeName="d" values="M0 292Q275 265 550 291T1100 284;M0 284Q275 305 550 280T1100 292;M0 292Q275 265 550 291T1100 284" dur="12s" repeatCount="indefinite"/></path>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="54" y="58" font-size="12" letter-spacing="3" fill="#a5b4fc">LANGUAGE / SPEECH / VISION</text>
+<text x="51" y="127" font-size="48" font-weight="700" fill="#f1f5ff">Truong Thanh Dat</text>
+<text x="54" y="171" font-size="23" fill="url(#ink)">Undergraduate Researcher · Artificial Intelligence</text>
+<text x="54" y="211" font-size="15" fill="#9ba8c7">University of Science, VNU-HCM</text>
+<rect x="54" y="240" width="37" height="3" rx="1.5" fill="url(#ink)"/>
+<text x="104" y="246" font-size="11" letter-spacing="2" fill="#8e9cbc">RESEARCH · PUBLICATIONS · CODE</text>
+</g></g></svg>
